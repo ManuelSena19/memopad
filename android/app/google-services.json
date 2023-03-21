@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568004214131",
+    "project_id": "memopad-6a5cc",
+    "storage_bucket": "memopad-6a5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568004214131:android:dff3e299c612823aea9906",
+        "android_client_info": {
+          "package_name": "com.example.memopad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568004214131-cujeu2a5pg1h6bongk632j0rk8rsi5nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME0jM2lSUJHEiOemwADXDNZkC-0UIKZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568004214131-cujeu2a5pg1h6bongk632j0rk8rsi5nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
